@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,QACE,wBAA+B,CAC/B,kBAAmB,CACpB,OAGC,wBAAyB","file":"main.dbb65918.chunk.css","sourcesContent":[".navbar {\n  background-color: palegoldenrod;\n  margin-bottom: 10px;\n}\n\n.table {\n  border-collapse: collapse;\n}\n"]}
